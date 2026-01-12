@@ -1,0 +1,8 @@
+prisoner_profile:
+  name: CONTROL TEST 2
+  age: 1
+  height: 1
+  prisoner_zone: Alpha-4
+  prisoner_cell: A4-11
+  security_level: 0
+  clearance: admin
