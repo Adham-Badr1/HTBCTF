@@ -1,0 +1,7 @@
+prisoner_profile:
+  name: CONTROL TEST
+  age: 1
+  height: 1
+  prisoner_zone: Alpha-4
+  prisoner_cell: A4-11
+  defenses: disabled
