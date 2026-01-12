@@ -1,6 +1,7 @@
 prisoner_profile:
-  name: TEST USER
-  age: 99
-  height: 9'9
-  prisoner_zone: TEST-ZONE
-  prisoner_cell: X-01
+  name: OVERRIDE TEST
+  age: "not a number"
+  height: []
+  prisoner_zone:
+    zone: ALPHA
+  prisoner_cell: null
